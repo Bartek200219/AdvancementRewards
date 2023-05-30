@@ -1,0 +1,6 @@
+name: AdvancementRewards
+version: '${project.version}'
+main: pl.kabzteam.bartek.advancementrewards.AdvancementRewards
+api-version: 1.19
+softdepend: [ Vault ]
+author: Bartek200219

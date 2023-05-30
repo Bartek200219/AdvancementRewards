@@ -1,0 +1,6 @@
+defaultPrize: 100
+messages:
+  advancementPayment: "You were given %s for making an advancement"
+  advancementPaymentFail: "An error occurred: %s"
+#If you want to change default prize remove "advancements" section
+#While enabling plugin will autogenerate it with your default prize
