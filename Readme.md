@@ -1,6 +1,6 @@
 # AdvancementRewards
 
-AdvancementRewards is a simple plugin to reward players with money after compleating miencraft advancments.
+AdvancementRewards is a simple plugin to reward players with money after  completing minecraft advancements.
 
 ### Installation
 
